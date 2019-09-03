@@ -82,3 +82,18 @@ Provides the ability to create a **UI** using the flow builder, provides charts,
 ![alt tag](https://github.com/rjrajbir/Displaying-Wireless-Temperature-Humidity-and-Temperature-Vibration-sensor-data-in-Node-RED-Dashboard/blob/master/output1.JPG)
 
 ![alt tag](https://github.com/rjrajbir/Displaying-Wireless-Temperature-Humidity-and-Temperature-Vibration-sensor-data-in-Node-RED-Dashboard/blob/master/output2.JPG)
+
+**Applications of Temperature and Humidity Sensors**
+
+- Warehouse Temperature Monitoring System
+- Storage Unit Weather Monitoring System
+- House Temperature Humidity monitoring
+- Temperature Humidity Sensor for Device Control Applications
+- Medical and Health Monitoring
+
+**Applications of Vibration and Temperature Sensors**
+
+- Machine Health Monitoring
+- Ideal Device for Predicative Maintenance
+- Future  Fail Detection and Alert System In Machines
+- 
