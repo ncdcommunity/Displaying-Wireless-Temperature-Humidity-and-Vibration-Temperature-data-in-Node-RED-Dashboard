@@ -96,4 +96,3 @@ Provides the ability to create a **UI** using the flow builder, provides charts,
 - Machine Health Monitoring
 - Ideal Device for Predicative Maintenance
 - Future  Fail Detection and Alert System In Machines
-- 
